@@ -1,3 +1,4 @@
+# Question number 2
 # program that reads the length of the base and the height of a right angled triangle and print the area.
 # Every number is given on a separate line
 base =float(input("Enter the base length of the triangle"))
